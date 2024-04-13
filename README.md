@@ -6,6 +6,10 @@ Bu proje, girdiğiniz bilgilerden kişisel CV'nizi hazırlayabileceğiniz bir mo
 
 CV Hazırlama Mobil Uygulaması, kişisel bilgilerinizi girerek, eklemek istediğiniz deneyimleri belirleyerek ve zevkinize göre bir CV tasarımı seçerek CV'nizi oluşturmanıza olanak tanır. Son olarak, oluşturduğunuz CV'yi PDF formatında indirebilirsiniz.
 
+## Teknolojiler
+
+Bu proje, React Native kullanılarak geliştirilmiştir.
+
 ## Kullanım Adımları
 
 1. Kişisel bilgilerinizi girin.
